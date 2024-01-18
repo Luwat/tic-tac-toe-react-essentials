@@ -2,9 +2,18 @@
 function App() {
 
   return (
-    <>
-      <div>Hello World!</div>
-    </>
+    <main>
+      <div id="game-container">
+        <ol id="players">
+          <li>
+            <span>Player 1</span>
+            <span><button>Edit</button></span>
+          </li>
+        </ol>
+        gameboard
+      </div>
+      log
+    </main>
   )
 }
 
