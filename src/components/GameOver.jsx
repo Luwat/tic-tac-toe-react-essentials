@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+
 export default function GameOver({winner, onSelect}) {
     return(
         <div id="game-over">
