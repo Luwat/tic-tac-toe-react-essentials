@@ -2,7 +2,7 @@
 // import { useState } from "react";
 
 
-export default function Gameboard({ onSelectSquare, board }) {
+export default function GameBoard({ onSelectSquare, board }) {
     
     // const [gameBoard, setGameBoard] = useState(initialGameBoard);
 
